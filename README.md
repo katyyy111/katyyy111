@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+-  🧠 2. year student at Warsaw University of Technology - Computer Science major.
+-  🌟 I'm currently learning about OS, the basics of AI and databases.
+-  💻 I would love to work on anything related to Software Design, apps or the fundamentals of AI.
+-  🦋 Besides coding I love moving my body, dancing and baking.
+-  📫 You can reach me through my email: kasiakuzora@gmail.com
+
 <!--
 **katyyy111/katyyy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
