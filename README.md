@@ -1,14 +1,15 @@
-## hi, I'm Katy 💌💌
+## Hi, I'm Katy 💌💌
 
--  🧠 2. year student at Warsaw University of Technology - Computer Science major.
--  🌟 I'm currently learning about OS, the basics of AI and databases.
--  💻 I would love to work on anything related to Software Design, apps or the fundamentals of AI.
--  🦋 My biggest projects:
-            Task-App (Doey) - a productive version of the app BeReal. It markes tasks done only if you post a photo to your friends about it via the app.         [https://github.com/katyyy111/Task-App]
-            Projekt-PIPR - an interactive school schedule, which helps with teacher and classroom collisions. [https://github.com/katyyy111/Projekt-PIPR]
-            projekt-ARKO - mirroring .bmp images in x86 assembly language
--  ➕ Additional school projects: [https://gitlab-stud.elka.pw.edu.pl/]
--  📫 You can reach me through my email: kasiakuzora@gmail.com
+-  🧠 2. year student at Warsaw University of Technology - Computer Science major.</br>
+-  🌟 I'm currently learning about OS, the basics of AI and databases.</br>
+-  💻 I would love to work on anything related to Software Development, Mobile App Development or the fundamentals of AI.</br>
+-  🦋 My biggest projects:</br>
+            &emsp; Task-App (Doey) - a productive version of the app BeReal. It markes tasks done only if you post a photo to your friends about it via the app.         [https://github.com/katyyy111/Task-App] </br>
+            &emsp; Projekt-PIPR - an interactive school schedule, which helps with teacher and classroom collisions. [https://github.com/katyyy111/Projekt-PIPR]</br>
+            &emsp; projekt-ARKO - mirroring .bmp images in x86 assembly language</br>
+            &emsp; Student Assistant App - an app for student-lecturer communication + quizes for engaging the students and in order to give the lecturer insight into the learning quality. Made as a team project - I was responsible for the React Native Expo app [https://gitlab-stud.elka.pw.edu.pl/skibidibajty/student-assistant-esp32] </br>
+-  ➕ Additional school projects: [https://gitlab-stud.elka.pw.edu.pl/]</br>
+-  📫 You can reach me through my email: kasiakuzora@gmail.com</br>
 
 
 ## 🌐 Socials:
