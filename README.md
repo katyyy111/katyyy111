@@ -1,9 +1,10 @@
 ## Hi, I'm Katy 💌💌
 
--  🧠 2. year student at Warsaw University of Technology - Computer Science major.</br>
--  🌟 I'm currently learning about OS, the basics of AI and databases.</br>
+-  🧠 3. year student at Warsaw University of Technology - Computer Science major.</br>
+-  🌟 I'm currently learning about Parallel Computing, Infrastructure Development and Software Engineering with agile methodologies.</br>
 -  💻 I would love to work on anything related to Software Development, Mobile App Development or the fundamentals of AI.</br>
 -  🦋 My biggest projects:</br>
+            &emsp; AI-powered Color Analysis Website - website which collects necessary information to provide users with a professional color analysis.         [https://github.com/katyyy111/Color-Analysis-App] </br>
             &emsp; Task-App (Doey) - a productive version of the app BeReal. It markes tasks done only if you post a photo to your friends about it via the app.         [https://github.com/katyyy111/Task-App] </br>
             &emsp; Projekt-PIPR - an interactive school schedule, which helps with teacher and classroom collisions. [https://github.com/katyyy111/Projekt-PIPR]</br>
             &emsp; projekt-ARKO - mirroring .bmp images in x86 assembly language</br>
